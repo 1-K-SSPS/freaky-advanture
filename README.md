@@ -1,2 +1,3 @@
 # freaky-advanture
-text freaky adventure game. GdaGdaO
+nekdy az nekdy to bude freaky na AURu.
+GdaGdaO
