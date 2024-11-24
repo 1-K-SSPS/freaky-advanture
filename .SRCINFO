@@ -1,0 +1,14 @@
+pkgbase = freaky-adventure
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://example.com
+	arch = x86_64
+	license = MIT
+	makedepends = make
+	makedepends = gcc
+	depends = dependency1
+	depends = dependency2
+	source = https://example.com/my-package-1.0.0.tar.gz
+	sha256sums = SKIP
+
+pkgname = freaky-adventure
